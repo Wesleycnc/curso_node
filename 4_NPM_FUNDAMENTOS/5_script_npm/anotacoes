@@ -1,0 +1,5 @@
+- Para criar scripts via npm basta entrar no package.json colocar o a tag start ou outra, e colocar nas aspas o arquivo que quer abrir, depois disso basta acessar o terminal e digitar as seguintes tags: 
+
+para acessar a tag start basta colocar: npm start ou npm run start.
+
+para acessar outras tags: npm run (nome da tag).

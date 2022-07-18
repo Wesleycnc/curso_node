@@ -1,0 +1,6 @@
+- Para ter acesso a um pacote global basta digitar o comando: npm install -g (pacote). 
+- Vale lembrar que os pacotes não serao instalado na maquina, caso seja necessário basta trazer os pacotes via link com o comando: npm link (pacote). Com esse comando ele vai pegar os arquivos via link. Mais não será instalado. 
+
+NPX
+
+- O npx é usado para alguns pacotes que são scripts com alguma ação no computador, para executar esses scripts é necessário o npx  

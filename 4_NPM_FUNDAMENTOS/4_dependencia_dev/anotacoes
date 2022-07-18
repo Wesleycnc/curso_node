@@ -1,0 +1,6 @@
+- Para criar um projeto para apenas o ambiente de desenvolvimento, basta utilizar a flag: npm install --save-dev (nome do pacote).
+- Vale lembrar que com a flag --save-dev ele vai trabalhar com apenas um pacote, o que foi usado na instalação com a flag. 
+
+- update de pacote
+
+Para checar se tem atualizacão em algum pacote basta digitar um comando: npx npm-check-updates -u. Esse comando vai verificar mais afundo se tem alguma dependência instalada que precise de atualização 
